@@ -12,7 +12,7 @@ class _handicapstate extends State<handicap>{
   Widget build(BuildContext context) {
     return Column(
       children: [
-        Text("Voici discord pour le jdr : ")
+        Text("Voici discord pour le jdr : Gheotik#6451/")
       ],
     );
   }
